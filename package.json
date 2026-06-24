@@ -4,7 +4,8 @@
   "description": "Gesture and user interaction sync library for ReactNative",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "test": "node test/server.test.js"
   },
   "bin": {
     "maya-kai-server": "src/server.js"
